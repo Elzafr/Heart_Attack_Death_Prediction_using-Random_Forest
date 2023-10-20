@@ -17,7 +17,7 @@ The data visualization part of the analysis aims to provide insights into Employ
 # Logistic Regression Best Params
 Using GridSearchCV to find the best parameters for Random Forest Classifier is a common approach to optimize the model's performance. This process will help me find the best hyperparameters for my Random Forest Classifier model and improve its performance for my specific dataset and problem.
 
-# Employee Left Model Prediction
+# Heart Attack Model Prediction
 By examining relevant variables such as Age, Smoking, Platelets, Creatinine, and other relevant factors, you can build a predictive model to estimate the likelihood of Death by Heart Attack.
 
 # Model Evaluation
